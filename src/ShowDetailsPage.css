@@ -1,0 +1,50 @@
+/* ShowDetailsPage.css */
+
+.show-details-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.show-title {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.show-image {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+.show-summary {
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+.episode-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.episode-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.episode-item {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.episode-number {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.episode-name {
+  font-style: italic;
+}
+
+  

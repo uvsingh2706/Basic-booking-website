@@ -1,0 +1,32 @@
+.movie-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .movie-image {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    max-width: 80%;
+  }
+  
+  .movie-summary {
+    text-align: center;
+    margin-bottom: 50px;
+    line-height: 1.5;
+  }
+  
+  .book-ticket-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .book-ticket-btn:hover {
+    background-color: #0069d9;
+  }
+  
